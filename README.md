@@ -60,7 +60,8 @@ numpy
 pip install -r requirements.txt
 Not: submission.csv, train.csv, test.csv gibi dosyalar Kaggle'dan indirilmeli ve proje klasörüne eklenmelidir.
 
- Planlanan Geliştirmeler
+### Planlanan Geliştirmeler
+
 Rolling mean (7-gün, 14-gün hareketli ortalama)
 
 onpromotion_lag, transactions_lag gibi geçmiş veriye dayalı yeni değişkenler
